@@ -1,0 +1,42 @@
+body {
+    font-family: 'Rubik', sans-serif;
+    background-color: #c83349;
+}
+
+h1, h2 {
+    text-align: center;
+    font-weight: bold;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+
+.title-box {
+    width: 30%;
+    background-color: #e06377;
+    padding: 40px;
+    color: #f9d5e5;
+    border: 8px solid #f9d5e5;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+section {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.your-password {
+    color: #c83349;
+}
+
+.password-box {
+    background-color: #f9d5e5;
+    padding: 10%;
+    border: 5px solid #e06377;
+    color: #e06377;;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
